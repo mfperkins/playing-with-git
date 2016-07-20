@@ -1,1 +1,4 @@
 1) First step is always "git init"
+2) Then stage and commit your work
+3) Make sure you are connected with the right remote repo
+4) Push from origin to master!
